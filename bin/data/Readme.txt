@@ -1,4 +1,4 @@
-This folder should contain the following executables:
+This directory should be located in the same directory as Calculators.exe and contain the following executables:
 
 1. PartsPerSheet.exe
 2. UM Conversion.exe
